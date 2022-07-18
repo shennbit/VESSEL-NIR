@@ -1,4 +1,4 @@
 # VESSEL-NIR
-SCANET: A Semi-supervised Alternate Training Method for Low-contrast Vessel Segmentation
+SCANet: A Unified Semi-supervised Learning Framework for Vessel Segmentation
 
-The available NIR vessel samples of VESSEL-NIR dataset are released here. Please contact us through email (shennbit@163.com) to get the images.
+The available NIR vessel samples of VESSEL-NIR dataset and source code are released here. Please contact us through email (shennbit@163.com) to get the images.
